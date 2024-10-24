@@ -1,1 +1,1 @@
-# Practice_BaekJoon_Java
+# 백준_Java_연습
