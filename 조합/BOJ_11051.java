@@ -1,4 +1,4 @@
-package 트리;
+package 조합;
 
 import java.io.*;
 import java.util.*;
